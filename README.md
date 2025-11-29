@@ -74,22 +74,13 @@ endmodule
 
 ```
 
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling  
-
-
-**
-
-
+**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling **
 <img width="624" height="691" alt="Screenshot 2025-11-29 131735" src="https://github.com/user-attachments/assets/d377dce0-1ad5-4136-8d54-d60cca254326" />
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling  
-
-
-**
+**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling **
 
 <img width="992" height="386" alt="Screenshot 2025-11-29 131810" src="https://github.com/user-attachments/assets/5c0866c7-8659-4110-9a3e-6135d45878df" />
-
 
 **RESULTS**
 
